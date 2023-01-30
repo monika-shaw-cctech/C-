@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Revision",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BinaryOperator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BinaryOperator-Debug-8c7354e0595765bf9855.json",
+					"name" : "BinaryOperator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Count::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Count-Debug-a9d9305f24b12ae116f8.json",
+					"name" : "Count",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Count1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Count1-Debug-b351f5747584b16d6cfa.json",
+					"name" : "Count1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DMA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DMA-Debug-ca9d89cf75aecc4e1ecb.json",
+					"name" : "DMA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Distance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Distance-Debug-202af9f4e720c58ed585.json",
+					"name" : "Distance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExceptionHandling1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExceptionHandling1-Debug-799c5f2a9d3e1f99ef5d.json",
+					"name" : "ExceptionHandling1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FriendClass::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FriendClass-Debug-b1458e5194ec8b67312f.json",
+					"name" : "FriendClass",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/C++11/C++ Revision/cmake-build-debug",
+		"source" : "D:/Projects/C++11/C++ Revision"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,15 @@
+# ninja log v5
+0	382	6967635503905047	CMakeFiles/DMA.dir/DMA.cpp.obj	17bc6db47f2562a2
+244	321	6967661962575789	Count1.exe	b0625f3762994c0f
+384	578	6967635505820552	DMA.exe	f3480e3ca298dc7b
+0	269	6967769540281869	CMakeFiles/Distance.dir/Distance.cpp.obj	6de2ce2cfe49b560
+4	256	6967652138926661	CMakeFiles/Count.dir/Count.cpp.obj	d1f286ffb6e538de
+256	347	6967652139813714	Count.exe	1f3a77b9de2415b9
+0	244	6967661961840144	CMakeFiles/Count1.dir/Count1.cpp.obj	7bf9d908ef08aeb6
+2	233	6967745465115670	CMakeFiles/BinaryOperator.dir/BinaryOperator.cpp.obj	450b3f0d6e58725d
+233	313	6967745465879762	BinaryOperator.exe	2455c105b83e6530
+3	229	6967754206410373	CMakeFiles/ExceptionHandling1.dir/ExceptionHandling1.cpp.obj	eba7c8af384806c6
+230	299	6967754207080369	ExceptionHandling1.exe	3675210a941811f5
+270	352	6967769541049126	Distance.exe	874c5b89fcfed7e8
+0	237	6967779892945896	CMakeFiles/FriendClass.dir/FriendClass.cpp.obj	e3e830b69a5b6b16
+237	319	6967779893738226	FriendClass.exe	4def939675aebde

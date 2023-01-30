@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.23)
+project(Revision)
+
+set(CMAKE_CXX_STANDARD 11)
+add_executable(DMA DMA.cpp)
+add_executable(Count Count.cpp)
+add_executable(Count1 Count1.cpp)
+add_executable(BinaryOperator BinaryOperator.cpp)
+add_executable(ExceptionHandling1 ExceptionHandling1.cpp)
+add_executable(Distance Distance.cpp)
+add_executable(FriendClass FriendClass.cpp)
