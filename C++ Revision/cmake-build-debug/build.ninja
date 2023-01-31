@@ -271,6 +271,204 @@ build FriendClass.exe: CXX_EXECUTABLE_LINKER__FriendClass_Debug CMakeFiles/Frien
   TARGET_IMPLIB = libFriendClass.dll.a
   TARGET_PDB = FriendClass.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target FunctionPtr
+
+
+#############################################
+# Order-only phony target for FunctionPtr
+
+build cmake_object_order_depends_target_FunctionPtr: phony || CMakeFiles/FunctionPtr.dir
+
+build CMakeFiles/FunctionPtr.dir/FunctionPtr.cpp.obj: CXX_COMPILER__FunctionPtr_Debug D$:/Projects/C++11/C++$ Revision/FunctionPtr.cpp || cmake_object_order_depends_target_FunctionPtr
+  DEP_FILE = CMakeFiles\FunctionPtr.dir\FunctionPtr.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\FunctionPtr.dir
+  OBJECT_FILE_DIR = CMakeFiles\FunctionPtr.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target FunctionPtr
+
+
+#############################################
+# Link the executable FunctionPtr.exe
+
+build FunctionPtr.exe: CXX_EXECUTABLE_LINKER__FunctionPtr_Debug CMakeFiles/FunctionPtr.dir/FunctionPtr.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\FunctionPtr.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = FunctionPtr.exe
+  TARGET_IMPLIB = libFunctionPtr.dll.a
+  TARGET_PDB = FunctionPtr.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Greet
+
+
+#############################################
+# Order-only phony target for Greet
+
+build cmake_object_order_depends_target_Greet: phony || CMakeFiles/Greet.dir
+
+build CMakeFiles/Greet.dir/Greet.cpp.obj: CXX_COMPILER__Greet_Debug D$:/Projects/C++11/C++$ Revision/Greet.cpp || cmake_object_order_depends_target_Greet
+  DEP_FILE = CMakeFiles\Greet.dir\Greet.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\Greet.dir
+  OBJECT_FILE_DIR = CMakeFiles\Greet.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Greet
+
+
+#############################################
+# Link the executable Greet.exe
+
+build Greet.exe: CXX_EXECUTABLE_LINKER__Greet_Debug CMakeFiles/Greet.dir/Greet.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Greet.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Greet.exe
+  TARGET_IMPLIB = libGreet.dll.a
+  TARGET_PDB = Greet.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Add
+
+
+#############################################
+# Order-only phony target for Add
+
+build cmake_object_order_depends_target_Add: phony || CMakeFiles/Add.dir
+
+build CMakeFiles/Add.dir/Add.cpp.obj: CXX_COMPILER__Add_Debug D$:/Projects/C++11/C++$ Revision/Add.cpp || cmake_object_order_depends_target_Add
+  DEP_FILE = CMakeFiles\Add.dir\Add.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\Add.dir
+  OBJECT_FILE_DIR = CMakeFiles\Add.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Add
+
+
+#############################################
+# Link the executable Add.exe
+
+build Add.exe: CXX_EXECUTABLE_LINKER__Add_Debug CMakeFiles/Add.dir/Add.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Add.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Add.exe
+  TARGET_IMPLIB = libAdd.dll.a
+  TARGET_PDB = Add.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Greet1
+
+
+#############################################
+# Order-only phony target for Greet1
+
+build cmake_object_order_depends_target_Greet1: phony || CMakeFiles/Greet1.dir
+
+build CMakeFiles/Greet1.dir/Greet1.cpp.obj: CXX_COMPILER__Greet1_Debug D$:/Projects/C++11/C++$ Revision/Greet1.cpp || cmake_object_order_depends_target_Greet1
+  DEP_FILE = CMakeFiles\Greet1.dir\Greet1.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\Greet1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Greet1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Greet1
+
+
+#############################################
+# Link the executable Greet1.exe
+
+build Greet1.exe: CXX_EXECUTABLE_LINKER__Greet1_Debug CMakeFiles/Greet1.dir/Greet1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Greet1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Greet1.exe
+  TARGET_IMPLIB = libGreet1.dll.a
+  TARGET_PDB = Greet1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Add1
+
+
+#############################################
+# Order-only phony target for Add1
+
+build cmake_object_order_depends_target_Add1: phony || CMakeFiles/Add1.dir
+
+build CMakeFiles/Add1.dir/Add1.cpp.obj: CXX_COMPILER__Add1_Debug D$:/Projects/C++11/C++$ Revision/Add1.cpp || cmake_object_order_depends_target_Add1
+  DEP_FILE = CMakeFiles\Add1.dir\Add1.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\Add1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Add1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Add1
+
+
+#############################################
+# Link the executable Add1.exe
+
+build Add1.exe: CXX_EXECUTABLE_LINKER__Add1_Debug CMakeFiles/Add1.dir/Add1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Add1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Add1.exe
+  TARGET_IMPLIB = libAdd1.dll.a
+  TARGET_PDB = Add1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Operation
+
+
+#############################################
+# Order-only phony target for Operation
+
+build cmake_object_order_depends_target_Operation: phony || CMakeFiles/Operation.dir
+
+build CMakeFiles/Operation.dir/Operation.cpp.obj: CXX_COMPILER__Operation_Debug D$:/Projects/C++11/C++$ Revision/Operation.cpp || cmake_object_order_depends_target_Operation
+  DEP_FILE = CMakeFiles\Operation.dir\Operation.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\Operation.dir
+  OBJECT_FILE_DIR = CMakeFiles\Operation.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Operation
+
+
+#############################################
+# Link the executable Operation.exe
+
+build Operation.exe: CXX_EXECUTABLE_LINKER__Operation_Debug CMakeFiles/Operation.dir/Operation.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Operation.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Operation.exe
+  TARGET_IMPLIB = libOperation.dll.a
+  TARGET_PDB = Operation.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -297,6 +495,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build Add: phony Add.exe
+
+build Add1: phony Add1.exe
+
 build BinaryOperator: phony BinaryOperator.exe
 
 build Count: phony Count.exe
@@ -311,6 +513,14 @@ build ExceptionHandling1: phony ExceptionHandling1.exe
 
 build FriendClass: phony FriendClass.exe
 
+build FunctionPtr: phony FunctionPtr.exe
+
+build Greet: phony Greet.exe
+
+build Greet1: phony Greet1.exe
+
+build Operation: phony Operation.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -319,7 +529,7 @@ build FriendClass: phony FriendClass.exe
 #############################################
 # Folder: D:/Projects/C++11/C++ Revision/cmake-build-debug
 
-build all: phony DMA.exe Count.exe Count1.exe BinaryOperator.exe ExceptionHandling1.exe Distance.exe FriendClass.exe
+build all: phony DMA.exe Count.exe Count1.exe BinaryOperator.exe ExceptionHandling1.exe Distance.exe FriendClass.exe FunctionPtr.exe Greet.exe Add.exe Greet1.exe Add1.exe Operation.exe
 
 # =============================================================================
 # Built-in targets

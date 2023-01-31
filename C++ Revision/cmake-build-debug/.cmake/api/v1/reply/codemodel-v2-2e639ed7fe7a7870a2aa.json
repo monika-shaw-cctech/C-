@@ -21,7 +21,13 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
 					]
 				}
 			],
@@ -42,12 +48,32 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Add::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Add-Debug-f9f588f0d46c7b8e7c9f.json",
+					"name" : "Add",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Add1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Add1-Debug-2b6a66db10f3d17136f4.json",
+					"name" : "Add1",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "BinaryOperator::@6890427a1f51a3e7e1df",
@@ -95,6 +121,34 @@
 					"id" : "FriendClass::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-FriendClass-Debug-b1458e5194ec8b67312f.json",
 					"name" : "FriendClass",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FunctionPtr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FunctionPtr-Debug-f510a121869078449dd7.json",
+					"name" : "FunctionPtr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Greet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Greet-Debug-83bf777139ca7cc3fb0a.json",
+					"name" : "Greet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Greet1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Greet1-Debug-63bd82cf83cc2e17d3fc.json",
+					"name" : "Greet1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Operation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Operation-Debug-f6470e8a4247e88021df.json",
+					"name" : "Operation",
 					"projectIndex" : 0
 				}
 			]
