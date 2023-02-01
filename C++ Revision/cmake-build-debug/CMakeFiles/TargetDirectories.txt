@@ -11,5 +11,8 @@ D:/Projects/C++11/C++ Revision/cmake-build-debug/CMakeFiles/Add.dir
 D:/Projects/C++11/C++ Revision/cmake-build-debug/CMakeFiles/Greet1.dir
 D:/Projects/C++11/C++ Revision/cmake-build-debug/CMakeFiles/Add1.dir
 D:/Projects/C++11/C++ Revision/cmake-build-debug/CMakeFiles/Operation.dir
+D:/Projects/C++11/C++ Revision/cmake-build-debug/CMakeFiles/MultiThreading1.dir
+D:/Projects/C++11/C++ Revision/cmake-build-debug/CMakeFiles/MultiThreading2.dir
+D:/Projects/C++11/C++ Revision/cmake-build-debug/CMakeFiles/MultiThreading3.dir
 D:/Projects/C++11/C++ Revision/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Projects/C++11/C++ Revision/cmake-build-debug/CMakeFiles/rebuild_cache.dir

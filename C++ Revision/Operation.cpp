@@ -13,7 +13,7 @@ auto operation = []  (int a, int b,  string op) -> double {
 };
 
 int main() {
-    
+
     int num1 = 1;
     int num2 = 2;
 
